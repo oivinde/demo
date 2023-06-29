@@ -1,4 +1,4 @@
 ---
 collections:
-  - name: fortinet.fortiswitch
+  - name: redhat.satellite
     src: https://aap-pah.ekeberg.io/api/galaxy/content/rh-certified/
